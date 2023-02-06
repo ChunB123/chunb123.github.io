@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Happy new year"
 date: 2023-02-06T00:28:15-08:00
 draft: false
 ---
@@ -7,7 +7,9 @@ draft: false
 
 <video width=100% controls autoplay>
     <source src="/videos/newyear.mp4" type="video/mp4">
-    Your browser does not support the video tag.  
+    The momoents we have been together!  
 </video>
+
+I love you.
 
 {{< /rawhtml >}}
