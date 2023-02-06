@@ -1,0 +1,4 @@
+baseURL = 'http://jiazheng.us/'
+languageCode = 'en-us'
+title = "Jiazheng and Mabel's new home"
+theme = 'ananke'
